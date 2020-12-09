@@ -1,0 +1,28 @@
+.top {
+	z-index: 1;
+}
+
+.code-library {
+	height: 100vh;
+	background-image: url("/assets/code-library.jpg");
+	background-attachment: fixed;
+	background-position: cover;
+}
+
+.bg {
+	background-color: #E9E9EB;
+}
+
+button {
+	background-color: #B60CD6;
+	height: 49.2vh;
+	margin-bottom: 10px;
+}
+
+.font-code {
+	font-family: 'Source Code Pro', monospace;
+}
+
+.shadowed {
+	filter: drop-shadow(0.10rem 0.10rem 0.10rem rgb(105, 105, 105));
+}

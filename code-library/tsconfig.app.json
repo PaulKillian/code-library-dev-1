@@ -6,7 +6,6 @@
     "types": []
   },
   "files": [
-    "carousel/carousel.component.ts",
     "src/main.ts",
     "src/polyfills.ts"
   ],
